@@ -11,10 +11,8 @@ class ToDo{
 
   static List<ToDo> todolist(){
     return[
-      ToDo(id: '1', todotext: 'Go to gym',isdone: true),
-      ToDo(id: '2', todotext: 'Go to gymikki',isdone: true),
-      ToDo(id: '3', todotext: 'Go to gymbro',),
-      ToDo(id: '4', todotext: 'Go to gym',isdone: true),
+     // ToDo(id: '1', todotext: 'Go to gym',isdone: true),
+      
       
     ];
   }
